@@ -17,13 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="#demo">Demo</a> •
   <a href="#features">Features</a> •
   <a href="#dataset">Dataset</a> •
   <a href="#preprocessing">Preprocessing</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#getting-started">Getting Started</a> •
-  <a href="#roadmap">Roadmap</a>
 </p>
 
 ---
